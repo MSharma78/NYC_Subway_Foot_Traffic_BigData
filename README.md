@@ -365,6 +365,4 @@ This notebook demonstrates how batch-trained models can drive live inference, pr
 
 This  captures the long-term value and potential applications of our NYC Subway Foot Traffic Prediction project, emphasizing both the technical scalability and its real-world utility for public infrastructure planning.
 
----
 
-Built by Gopala Krishna Abba and collaborators 
